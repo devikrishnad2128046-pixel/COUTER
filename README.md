@@ -1,1 +1,1 @@
-# COUTER
+# COUNTER
